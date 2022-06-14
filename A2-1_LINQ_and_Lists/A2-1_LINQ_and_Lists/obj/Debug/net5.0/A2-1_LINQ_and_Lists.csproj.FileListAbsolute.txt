@@ -1,0 +1,5 @@
+C:\Users\Owner\OneDrive\Desktop\Visual Studios Stuff\School\A2-1_LINQ_and_Lists\A2-1_LINQ_and_Lists\obj\Debug\net5.0\A2-1_LINQ_and_Lists.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Visual Studios Stuff\School\A2-1_LINQ_and_Lists\A2-1_LINQ_and_Lists\obj\Debug\net5.0\A2-1_LINQ_and_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Visual Studios Stuff\School\A2-1_LINQ_and_Lists\A2-1_LINQ_and_Lists\obj\Debug\net5.0\A2-1_LINQ_and_Lists.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Visual Studios Stuff\School\A2-1_LINQ_and_Lists\A2-1_LINQ_and_Lists\obj\Debug\net5.0\A2-1_LINQ_and_Lists.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Visual Studios Stuff\School\A2-1_LINQ_and_Lists\A2-1_LINQ_and_Lists\obj\Debug\net5.0\A2-1_LINQ_and_Lists.csproj.CoreCompileInputs.cache
